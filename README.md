@@ -56,7 +56,9 @@ No endpoint de listagem, deve-se devolver a lista de todos os pokemons cadastrad
 é preciso também trazer calcular o campo _total_ de **cada pokemon**.
 O campo total corresponde à soma de todos os dados quantitativos (generation e pokemon_index **não entram no total**)
 
-
+_Pokemon_
+Types
+Pokemon_Types
 
 ## Dados de teste
 
